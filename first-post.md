@@ -17,9 +17,9 @@ You can make your text italic by using one * before and after your word/sentence
 ### Lists  
 
 **Unordered list:**
-    Place * before the list  
+    Place * or - before the list  
 * List Item 1
-* List Item 2
+- List Item 2
    * List Item 2a
    
 **Ordered list:** 
