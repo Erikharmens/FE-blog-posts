@@ -20,13 +20,12 @@ Unordered list:
 * List Item 1
 * List Item 2
    * List Item 2a
-   * List Item 2b 
    
 Ordered list:  
+    Place 1. before the list starts
 1. List Item 1
 1. List Item 2
-1. List Item 3
-    1. List Item 3a  
+    1. List Item 2a  
     
 
 
