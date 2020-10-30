@@ -9,10 +9,10 @@ To create headings place # before the word/sentence. One # is a h1 tag, two # is
 ### Emphasis  
 
 You can make your text bold by using two * before and after your word/sentence.  
-**This text is bold** 
+**This text is bold.** 
 
-You can also make your text itallic by using only one * before and after your word/sentence.  
-Some of this *text is itallic*
+You can make your text italic by using only one * before and after.  
+Some of *this text is italic.*
 
 
 
