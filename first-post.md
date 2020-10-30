@@ -36,16 +36,12 @@ To create a blockquote, add a > in front of a paragraph.
 >
 > Can also be done with multiple paragraphs.  
 
+### Code Blocks  
+To create code blocks, indent every line of the block by at least four spaces or one tab.
 
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-  
-**Some bold text**
-*And some itallic*
-
-Quote from an old man:
-> Wise man once said.
-> Treat yo self.
+    <html>
+      <head>
+      </head>
+    </html>  
+    
+Enjoy!
