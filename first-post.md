@@ -16,13 +16,15 @@ You can make your text italic by using one * before and after your word/sentence
 
 ### Lists  
 
-Unordered list:  
+**Unordered list:**
+    Place * before the list  
 * List Item 1
 * List Item 2
    * List Item 2a
    
-Ordered list:  
-    Place 1. before the list starts
+**Ordered list:** 
+    Place 1. before the list 
+    
 1. List Item 1
 1. List Item 2
     1. List Item 2a  
