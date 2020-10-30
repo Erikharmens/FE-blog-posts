@@ -8,13 +8,19 @@ To create headings place # before the word/sentence. One # is a h1 tag, two # is
 
 ### Emphasis  
 
-You can make your text bold by using two * before and after your word/sentence.  
 **This text is bold.** 
+You can make your text bold by using two * before and after your word/sentence.  
 
-You can make your text italic by using only one * before and after.  
-Some of *this text is italic.*
+Some of *this text is italic.* 
+You can make your text italic by using one * before and after your word/sentence.  
 
+### Lists  
 
+* List Item 1
+* List Item 2
+ * List Item 2a
+ * List Item 2b
+You can make an unordered list and an ordered one
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
