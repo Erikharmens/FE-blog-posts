@@ -16,12 +16,19 @@ You can make your text italic by using one * before and after your word/sentence
 
 ### Lists  
 
+Unordered list:  
 * List Item 1
 * List Item 2
    * List Item 2a
    * List Item 2b 
    
-You can make an unordered list and an ordered one
+Ordered list:  
+1. List Item 1
+1. List Item 2
+1. List Item 3
+    1. List Item 3a  
+    
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
